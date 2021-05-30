@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SCDProject</name>
+	<comment></comment>
+	<projects>
+		<project>First</project>
+		<project>NewProject</project>
+		<project>SCD</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
